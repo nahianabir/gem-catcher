@@ -1,2 +1,2 @@
 # gem-catcher
-just a basic gem catcher game with godot 4.3
+Just a basic gem catcher game with godot 4.3
